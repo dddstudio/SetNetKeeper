@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">路由器设置</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+ 	<string name="setRoute">设置路由器</string>
+ 	<string name="userName">账号：</string>
+ 	<string name="password">密码：</string>
+ 	<string name="ip">IP：</string>
+ 	<string name="set">设置</string>
+ 	<string name="h1">请输入账号</string>
+ 	<string name="h2">请输入密码</string>
+ 	<string name="h3">请输入进入路由器的IP</string>
+ 	<string name="real">加密账号：</string>
+ 	<string name="lo">by---一叶知秋</string>
+ 	<string name="s">说明</string>
+</resources>
